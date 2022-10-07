@@ -1,0 +1,48 @@
+{
+  "customers": [
+    {
+      "name": "kasun",
+      "dateOfBirth": "1995-11-08",
+      "nicNumber": "953132941v",
+      "phoneNumber": "0779865321",
+      "addressLine1": "colombo",
+      "addressLine2": "Awissawella",
+      "city": "Dehiowita",
+      "country": "Sri Lanka",
+      "id": 1
+    },
+    {
+      "name": "Amila",
+      "dateOfBirth": "Tharanga",
+      "nicNumber": "986521123v",
+      "phoneNumber": "0725698321",
+      "addressLine1": "gampaha",
+      "addressLine2": "colombo",
+      "city": "ampara",
+      "country": "Cnada",
+      "id": 2
+    },
+    {
+      "name": "Thilini",
+      "dateOfBirth": "1994-03-19",
+      "nicNumber": "943265412v",
+      "phoneNumber": "0746598321",
+      "addressLine1": "Kelaniya ",
+      "addressLine2": "Kelaniya ",
+      "city": "New City",
+      "country": "USA",
+      "id": 3
+    },
+    {
+      "name": "Janaka",
+      "dateOfBirth": "1988-12-30",
+      "nicNumber": "882136547v",
+      "phoneNumber": "0756932147",
+      "addressLine1": "Abagasyaya",
+      "addressLine2": "boralankada",
+      "city": "New Jersy",
+      "country": "America",
+      "id": 4
+    }
+  ]
+}
